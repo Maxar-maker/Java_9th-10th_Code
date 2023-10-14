@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CopyObtoDiffOb
+comment1.params=
+comment1.target=CopyObtoDiffOb()
+comment2.params=c\ d
+comment2.target=CopyObtoDiffOb(int,\ int)
+comment3.params=ob
+comment3.target=void\ copy(CopyObtoDiffOb)
+comment4.params=
+comment4.target=void\ dis()
+comment5.params=
+comment5.target=void\ main()
+numComments=6
